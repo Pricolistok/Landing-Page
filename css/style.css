@@ -1,0 +1,91 @@
+header
+{
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+
+}
+.messengers_icons
+{
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.p_telephone
+{
+	margin-bottom: 0px;
+	color: black;
+}
+.btn-orange
+{
+	margin-bottom: 5px;
+	background-color: #ff7c00;
+}
+.slider_set
+{
+	margin-top: 50px;
+	margin-right: 70px;
+	margin-left: 70px;
+}
+.container-cards
+{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.card
+{
+	display: inline-block;
+}
+.cards
+{
+	display: inline-block;
+}
+main
+{
+	padding: 20px;
+/*	margin-right: 100px;
+	margin-left: 100px;*/
+	background-color: #ff7c00;
+}
+.module-color
+{
+	background-color:#ffffff;
+	border-radius: 50px;
+	padding: 20px;
+	margin-top: 30px;
+}
+.card
+{
+	margin: 20px;
+}
+.position_tables
+{
+	margin-top: 30px;
+
+}
+.first-block
+{
+	margin-top: 100px;
+}
+#logo
+{
+	border-radius: 10px;
+}
+#decoration_phone
+{
+	text-decoration: none;
+}
+#prices
+{
+	margin-bottom: 30px;
+}
+.price_text
+{
+	margin-left: 35%;
+}
+#examples
+{
+	margin-top: 10px;
+}
